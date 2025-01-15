@@ -1,3 +1,3 @@
-# App-tienda-de-mascotas
-accesorios, prendas y comidas
+# App-PetShop-Tu Tienda de Mascotas Digital
+
 # *Introduccion*
