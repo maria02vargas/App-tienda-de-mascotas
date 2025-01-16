@@ -11,3 +11,5 @@ Ya sea para consentir o cuidar, tenemos lo que buscas. ¡Haz que tus amigos pelu
 Queremos facilitar la vida de nuestros usuarios, permitiéndoles encontrar rápidamente todo lo necesario para consentir y cuidar a sus mascotas. 
 Nos enfocamos en mejorar el bienestar de los animales, ofreciendo solo artículos que contribuyan a su salud y felicidad. 
 Además, buscamos simplificar la gestión de inventarios y la experiencia de compra, brindando una plataforma intuitiva y fácil de usar.
+
+# *Objetivos*
