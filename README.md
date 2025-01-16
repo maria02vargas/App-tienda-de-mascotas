@@ -13,7 +13,7 @@ Nos enfocamos en mejorar el bienestar de los animales, ofreciendo solo artículo
 Además, buscamos simplificar la gestión de inventarios y la experiencia de compra, brindando una plataforma intuitiva y fácil de usar.
 
 # *Objetivos*
-**PetShop App** 
+
 **1.Ofrecer productos de alta calidad:**
 Garantizar que todos los productos, como alimentos, accesorios, prendas y juguetes, cumplan con altos estándares de calidad para satisfacer las necesidades de las mascotas.
 
