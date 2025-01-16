@@ -14,26 +14,26 @@ Además, buscamos simplificar la gestión de inventarios y la experiencia de com
 
 # *Objetivos*
 **PetShop App** 
-Ofrecer productos de alta calidad:
+**Ofrecer productos de alta calidad:**
 Garantizar que todos los productos, como alimentos, accesorios, prendas y juguetes, cumplan con altos estándares de calidad para satisfacer las necesidades de las mascotas.
 
-Proveer una experiencia de compra sencilla y rápida:
+**Proveer una experiencia de compra sencilla y rápida:**
 Diseñar una interfaz intuitiva que permita a los usuarios encontrar fácilmente los productos que buscan y completar sus compras sin complicaciones.
 
-Promover el bienestar de las mascotas:
+**Promover el bienestar de las mascotas:**
 Enfocarse en mejorar la salud, felicidad y calidad de vida de las mascotas mediante productos que contribuyan positivamente a su cuidado.
 
-Facilitar la gestión de inventarios para los dueños de negocios:
+**Facilitar la gestión de inventarios para los dueños de negocios:**
 Ofrecer herramientas digitales para que los dueños de tiendas de mascotas puedan simplificar la administración de sus inventarios.
 
-Fomentar la fidelidad del cliente:
+**Fomentar la fidelidad del cliente:**
 Construir relaciones duraderas con los usuarios a través de un excelente servicio al cliente y productos confiables que satisfagan sus expectativas.
 
-Brindar accesibilidad para todos los usuarios:
+**Brindar accesibilidad para todos los usuarios:**
 Asegurar que la plataforma sea accesible desde cualquier dispositivo y lugar, permitiendo a los clientes realizar compras en cualquier momento.
 
-Generar conciencia sobre el cuidado responsable de las mascotas:
+**Generar conciencia sobre el cuidado responsable de las mascotas:**
 Incluir información educativa sobre el cuidado de mascotas, promoviendo prácticas responsables entre los dueños.
 
-Expandir la oferta de productos:
+**Expandir la oferta de productos:**
 Incorporar nuevos artículos innovadores para diversificar la gama de productos disponibles y atender las demandas del mercado.
