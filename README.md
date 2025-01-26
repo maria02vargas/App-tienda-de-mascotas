@@ -66,28 +66,28 @@ La interfaz de la aplicación está diseñada para ser fácil de usar, permitien
 
 ***Diseño claro y organizado:*** El contenido se presenta de forma estructurada, con categorías y subcategorías claras que guían al usuario en su proceso de compra.
 
-# **3. Gestión de Inventarios para Dueños de Tiendas:**
+**3. Gestión de Inventarios para Dueños de Tiendas:**
 PetShop App proporciona herramientas digitales que permiten a los dueños de tiendas de mascotas gestionar su inventario de manera eficiente, manteniendo un control actualizado de los productos disponibles.
 
 ***Sistema de alertas:*** Notificaciones que avisan sobre productos agotados o próximos a agotarse, facilitando la reposición de inventario.
 
 ***Control de stock:*** Visualización en tiempo real del nivel de existencias de cada producto.
 
-# **4. Educación y Promoción del Bienestar Animal:**
+**4. Educación y Promoción del Bienestar Animal:**
 La aplicación incluye secciones educativas sobre el cuidado responsable de las mascotas, proporcionando artículos, consejos y recomendaciones para los dueños.
 
 ***Artículos informativos y videos:*** Consejos sobre salud, nutrición y comportamiento animal.
 
 ***Promociones de productos relacionados:*** Sugerencias de productos que complementen los cuidados básicos de las mascotas.
 
-# **5. Experiencia de Compra Rápida y Sencilla:**
+**5. Experiencia de Compra Rápida y Sencilla:**
 PetShop App asegura que los usuarios puedan completar sus compras con facilidad.
 
 ***Carrito de compras funcional:*** Un sistema de carrito que permite agregar productos rápidamente y revisar los detalles de la compra antes de finalizar.
 
 ***Opciones de pago seguras:*** Métodos de pago variados y seguros que garantizan una experiencia de compra sin problemas.
 
-# **6. Accesibilidad Multiplataforma:**
+**6. Accesibilidad Multiplataforma:**
 La aplicación está diseñada para ser accesible desde cualquier dispositivo, lo que permite a los usuarios realizar compras en cualquier lugar y en cualquier momento.
 
 ***Diseño responsivo:*** La plataforma se adapta a dispositivos móviles, tabletas y computadoras de escritorio.
