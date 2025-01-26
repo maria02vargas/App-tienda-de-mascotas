@@ -98,3 +98,5 @@ La aplicación está diseñada para ser accesible desde cualquier dispositivo, l
 Estas funcionalidades están pensadas para mejorar tanto la experiencia del usuario como la gestión para los dueños de negocios. Al ofrecer productos de calidad, facilitar la compra y educar a los usuarios, PetShop App busca convertirse en una herramienta indispensable para los amantes de las mascotas y los comercios dedicados a este sector, mejorando la calidad de vida de los animales y satisfaciendo las expectativas de los dueños.
 
 ## Modelo Relacional en Mysql
+
+![image](IMG/MYSQL.PNG-mysql.png)
