@@ -99,4 +99,4 @@ Estas funcionalidades están pensadas para mejorar tanto la experiencia del usua
 
 ## Modelo Relacional en Mysql
 
-![imagen](IMAGEN/MYSQL.PNG)
+![imagen](Imagen/MYSQL.PNG)
