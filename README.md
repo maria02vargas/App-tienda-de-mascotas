@@ -52,7 +52,9 @@ Desarrollar una plataforma de tienda en línea para productos de mascotas contri
 El proyecto busca ser una tienda en línea que ofrezca productos para el cuidado de las mascotas, garantizando la facilidad de compra y un servicio de calidad. Es esencial que la plataforma sea accesible, intuitiva y cuente con herramientas que mejoren tanto la experiencia del cliente como la gestión del inventario de los negocios. A continuación, se presenta un análisis detallado de los requisitos funcionales y no funcionales que debe cumplir el sistema.
 
  # **Funcionalidades Clave:**
+ 
 **1. Productos de Alta Calidad:**
+
 La aplicación ofrece una amplia gama de productos de alta calidad para mascotas, como alimentos, accesorios, prendas y juguetes, garantizando que cumplan con los estándares más altos para asegurar la salud y felicidad de las mascotas.
 
 ***Selección de productos variados:*** Todos los productos están organizados en categorías fáciles de explorar, garantizando que los usuarios encuentren lo que necesitan rápidamente.
@@ -60,6 +62,7 @@ La aplicación ofrece una amplia gama de productos de alta calidad para mascotas
 ***Descripciones detalladas:*** Cada producto tiene información clara sobre sus características, beneficios y recomendaciones, ayudando al usuario a tomar decisiones informadas.
 
 **2. Navegación Intuitiva:**
+
 La interfaz de la aplicación está diseñada para ser fácil de usar, permitiendo a los usuarios navegar sin esfuerzo, encontrar productos rápidamente y completar sus compras sin complicaciones.
 
 ***Búsqueda avanzada y filtrado:*** Los usuarios pueden buscar productos por categoría, marca, precio y necesidades específicas de la mascota.
@@ -67,6 +70,7 @@ La interfaz de la aplicación está diseñada para ser fácil de usar, permitien
 ***Diseño claro y organizado:*** El contenido se presenta de forma estructurada, con categorías y subcategorías claras que guían al usuario en su proceso de compra.
 
 **3. Gestión de Inventarios para Dueños de Tiendas:**
+
 PetShop App proporciona herramientas digitales que permiten a los dueños de tiendas de mascotas gestionar su inventario de manera eficiente, manteniendo un control actualizado de los productos disponibles.
 
 ***Sistema de alertas:*** Notificaciones que avisan sobre productos agotados o próximos a agotarse, facilitando la reposición de inventario.
@@ -74,6 +78,7 @@ PetShop App proporciona herramientas digitales que permiten a los dueños de tie
 ***Control de stock:*** Visualización en tiempo real del nivel de existencias de cada producto.
 
 **4. Educación y Promoción del Bienestar Animal:**
+
 La aplicación incluye secciones educativas sobre el cuidado responsable de las mascotas, proporcionando artículos, consejos y recomendaciones para los dueños.
 
 ***Artículos informativos y videos:*** Consejos sobre salud, nutrición y comportamiento animal.
@@ -81,6 +86,7 @@ La aplicación incluye secciones educativas sobre el cuidado responsable de las 
 ***Promociones de productos relacionados:*** Sugerencias de productos que complementen los cuidados básicos de las mascotas.
 
 **5. Experiencia de Compra Rápida y Sencilla:**
+
 PetShop App asegura que los usuarios puedan completar sus compras con facilidad.
 
 ***Carrito de compras funcional:*** Un sistema de carrito que permite agregar productos rápidamente y revisar los detalles de la compra antes de finalizar.
@@ -88,6 +94,7 @@ PetShop App asegura que los usuarios puedan completar sus compras con facilidad.
 ***Opciones de pago seguras:*** Métodos de pago variados y seguros que garantizan una experiencia de compra sin problemas.
 
 **6. Accesibilidad Multiplataforma:**
+
 La aplicación está diseñada para ser accesible desde cualquier dispositivo, lo que permite a los usuarios realizar compras en cualquier lugar y en cualquier momento.
 
 ***Diseño responsivo:*** La plataforma se adapta a dispositivos móviles, tabletas y computadoras de escritorio.
