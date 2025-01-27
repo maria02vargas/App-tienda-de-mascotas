@@ -102,15 +102,15 @@ Estas funcionalidades están pensadas para mejorar tanto la experiencia del usua
 ![imagen](IMG/MYSQL.png)
 
 ## Tablas principales
-1. Proveedores:
+***1. Proveedores:***
 Almacena información sobre las entidades que suministran los productos que se venden o distribuyen.
-2. Clientes:
+***2. Clientes:***
  Almacena información sobre las personas o empresas que adquieren productos o servicios.
-3. Productos:
+***3. Productos:***
  Almacena información sobre los bienes que están disponibles para la venta o distribución.
-4. Categoría de productos:
+***4. Categoría de productos:***
  Almacena información que clasifica los productos en diferentes grupos o tipos.
-5. Compras:
+***5. Compras:***
  Almacena los registros de las transacciones realizadas para adquirir productos de los proveedores.
-6. Detalles de compra:
+***6. Detalles de compra:***
  Almacena información específica sobre cada producto incluido en una compra, como cantidades y precios.
