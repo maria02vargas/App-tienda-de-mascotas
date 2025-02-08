@@ -119,3 +119,6 @@ Almacena información sobre las entidades que suministran los productos que se v
  
 ***6. Detalles de compra:***
  Almacena información específica sobre cada producto incluido en una compra, como cantidades y precios.
+
+
+NOTE: Podrá descargar el scrip con el modelo fisico. ![]()
