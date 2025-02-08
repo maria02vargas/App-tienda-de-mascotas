@@ -121,4 +121,4 @@ Almacena información sobre las entidades que suministran los productos que se v
  Almacena información específica sobre cada producto incluido en una compra, como cantidades y precios.
 
 
-NOTE: Podrá descargar el scrip con el modelo fisico. ![Apppetshopp.sql]()
+NOTE: Podrá descargar el scrip con el modelo fisico. ![descargar el archivo modelo_fisico.sql](modelo_fisico.sql)
