@@ -122,4 +122,4 @@ Almacena información sobre las entidades que suministran los productos que se v
 
 
 NOTE: Podrá descargar el scrip con el modelo fisico. ![descargar el Aplicación para tiendas de mascotas.sql
-ql](Aplicación para tiendas de mascotas.sql)
+ql](modelo fisíco.sql)
