@@ -43,7 +43,7 @@ Desarrollar una plataforma de tienda en línea para productos de mascotas contri
 ## Análisis de requerimiento
 El proyecto busca ser una tienda en línea que ofrezca productos para el cuidado de las mascotas, garantizando la facilidad de compra y un servicio de calidad. Es esencial que la plataforma sea accesible, intuitiva y cuente con herramientas que mejoren tanto la experiencia del cliente como la gestión del inventario de los negocios. A continuación, se presenta un análisis detallado de los requisitos funcionales y no funcionales que debe cumplir el sistema.
 
- ## Funcionalidades Clave:
+ ## Funcionalidades Clave
  
 ### 1. Productos de Alta Calidad:
 
