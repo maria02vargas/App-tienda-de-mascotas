@@ -93,11 +93,11 @@ La aplicación está diseñada para ser accesible desde cualquier dispositivo, l
 
 ***Aplicación móvil disponible:*** PetShop App contará con una versión para smartphones que permite realizar compras de manera eficiente y práctica.
 
-### Impacto de funcionalidades
+*** ### Impacto de funcionalidades ***
 
 Estas funcionalidades están pensadas para mejorar tanto la experiencia del usuario como la gestión para los dueños de negocios. Al ofrecer productos de calidad, facilitar la compra y educar a los usuarios, PetShop App busca convertirse en una herramienta indispensable para los amantes de las mascotas y los comercios dedicados a este sector, mejorando la calidad de vida de los animales y satisfaciendo las expectativas de los dueños.
 
-## Modelo Relacional en Mysql
+### Modelo Relacional en Mysql 
 
 ![imagen](IMG/MYSQL.png)
 
