@@ -101,7 +101,7 @@ Estas funcionalidades están pensadas para mejorar tanto la experiencia del usua
 
 ![imagen](IMG/MYSQL.png)
 
-## Tablas principales
+## Tablas principales 
 ***1. Proveedores:***
 Almacena información sobre las entidades que suministran los productos que se venden o distribuyen.
 
