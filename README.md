@@ -1,4 +1,4 @@
-# App-PetShop-Tu Tienda de Mascotas Digital 🐶🦴
+# App-PetShop        Tu Tienda de Mascotas Digital 🐶🦴
 
 ## Introduccion
 ***PetShop App*** es una tienda en línea dedicada a ofrecer lo mejor en alimentos, accesorios, y juguetes para mascotas.
