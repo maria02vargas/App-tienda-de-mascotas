@@ -1,18 +1,18 @@
 # App-PetShop -Tu Tienda de Mascotas Digital 🐶🦴
 
-## Introduccion
+## Introduccion.
 ***PetShop App*** es una tienda en línea dedicada a ofrecer lo mejor en alimentos, accesorios, y juguetes para mascotas.
 Nuestra plataforma está diseñada para hacer las compras rápidas y sencillas, brindando productos de alta calidad. 
 Con una interfaz fácil de usar, podrás encontrar todo lo que tu mascota necesita. 
 Ya sea para consentir o cuidar, tenemos lo que buscas. ¡Haz que tus amigos peludos vivan mejor con ***PetShop App***!
 
-## Propósito
+## Propósito.
 ***PetShop App*** tiene como propósito ofrecer una experiencia de compra eficiente y accesible para los dueños de mascotas, proporcionando productos de calidad como alimentos, accesorios, y juguetes.
 Queremos facilitar la vida de nuestros usuarios, permitiéndoles encontrar rápidamente todo lo necesario para consentir y cuidar a sus mascotas. 
 Nos enfocamos en mejorar el bienestar de los animales, ofreciendo solo artículos que contribuyan a su salud y felicidad. 
 Además, buscamos simplificar la gestión de inventarios y la experiencia de compra, brindando una plataforma intuitiva y fácil de usar.
 
-## Objetivos
+## Objetivos.
 
 - ***Ofrecer productos de alta calidad:*** Garantizar que todos los productos, como alimentos, accesorios, y juguetes, cumplan con altos estándares de calidad para satisfacer las necesidades de las mascotas.
 
@@ -31,19 +31,19 @@ Además, buscamos simplificar la gestión de inventarios y la experiencia de com
 - ***Expandir la oferta de productos:*** Incorporar nuevos artículos innovadores para diversificar la gama de productos disponibles y atender las demandas del mercado.
 
 
-## Contexto del Problema
- ### Definición del problema
+## Contexto del Problema.
+ ### Definición del problema.
 El mercado de productos para mascotas ha experimentado un rápido crecimiento, pero la oferta de tiendas en línea especializadas en ofrecer una experiencia de compra eficiente y accesible es aún limitada en muchos mercados. Muchos dueños de mascotas encuentran difícil encontrar productos de calidad en una sola plataforma, lo que lleva a una experiencia de compra fragmentada y a veces confusa. Además, la falta de información centralizada sobre productos y el cuidado de mascotas hace que los dueños no siempre tomen las mejores decisiones para el bienestar de sus animales.
 
 En este contexto, surge la necesidad de una plataforma digital diseñada para facilitar el acceso a alimentos, accesorios,  y juguetes de calidad para mascotas, con un sistema intuitivo y con soporte para la gestión de inventarios, lo cual permitirá mejorar la experiencia de compra tanto para los usuarios como para los dueños de negocios.
 
-## Justificación del proyecto
+## Justificación del proyecto.
 Desarrollar una plataforma de tienda en línea para productos de mascotas contribuye a resolver el problema de la dispersión de información y la dificultad de encontrar productos adecuados. A través de una plataforma de fácil acceso y navegación, PetShop App ofrecerá una experiencia optimizada de compra, enfocándose en el bienestar de las mascotas y promoviendo la fidelidad del cliente. Al facilitar una administración más eficiente de inventarios para dueños de tiendas, se mejorará la disponibilidad de productos y se fortalecerá la relación con los usuarios.
 
-## Análisis de requerimiento
+## Análisis de requerimiento.
 El proyecto busca ser una tienda en línea que ofrezca productos para el cuidado de las mascotas, garantizando la facilidad de compra y un servicio de calidad. Es esencial que la plataforma sea accesible, intuitiva y cuente con herramientas que mejoren tanto la experiencia del cliente como la gestión del inventario de los negocios. A continuación, se presenta un análisis detallado de los requisitos funcionales y no funcionales que debe cumplir el sistema.
 
- ## Funcionalidades Clave
+ ## Funcionalidades Clave.
  
 ### 1. Productos de Alta Calidad:
 
@@ -93,15 +93,15 @@ La aplicación está diseñada para ser accesible desde cualquier dispositivo, l
 
 ***Aplicación móvil disponible:*** PetShop App contará con una versión para smartphones que permite realizar compras de manera eficiente y práctica.
 
-### Impacto de funcionalidades
+### Impacto de funcionalidades.
 
 Estas funcionalidades están pensadas para mejorar tanto la experiencia del usuario como la gestión para los dueños de negocios. Al ofrecer productos de calidad, facilitar la compra y educar a los usuarios, PetShop App busca convertirse en una herramienta indispensable para los amantes de las mascotas y los comercios dedicados a este sector, mejorando la calidad de vida de los animales y satisfaciendo las expectativas de los dueños.
 
-### Modelo Relacional en Mysql 
+### Modelo Relacional en Mysql.
 
 ![imagen](IMG/MYSQL.png)
 
-## Tablas principales 
+## Tablas principales. 
 ***1. Proveedores:***
 Almacena información sobre las entidades que suministran los productos que se venden o distribuyen.
 
